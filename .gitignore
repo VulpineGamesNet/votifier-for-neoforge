@@ -46,3 +46,6 @@ debug.txt
 # Neoforge
 .gradle/
 runs/
+
+# VS Code
+.vscode/
